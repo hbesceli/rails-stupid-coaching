@@ -13,3 +13,17 @@
  *= require_tree .
  *= require_self
  */
+
+ .card-yellow {
+  background-color: rgb(199, 199, 35);
+  border-left: 10px solid grey ;
+  padding: 20px;
+  margin: 25px
+ }
+
+ .card-white {
+  background-color: rgb(221, 221, 210);
+  border-left: 10px solid grey ;
+  padding: 20px;
+  margin: 25px
+ }
